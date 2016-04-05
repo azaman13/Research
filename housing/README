@@ -1,0 +1,30 @@
+Installation:
+pip install pyzillow
+
+For more docs, look here: https://github.com/hanneshapke/pyzillow
+
+Attributes returned:
+
+- zillow_id
+- home_type
+- home_detail_link
+- photo_gallery
+- latitude
+- latitude
+- coordinates
+- year_built
+- property_size
+- home_size
+- bathrooms
+- bedrooms
+- home_info
+- year_updated
+- floors
+- basement
+- roof
+- view
+- heating_sources
+- heating_system
+- rooms
+- neighborhood
+- school_district
